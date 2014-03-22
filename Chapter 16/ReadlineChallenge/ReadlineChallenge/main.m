@@ -13,7 +13,6 @@ int main(int argc, const char * argv[])
 
     @autoreleasepool {
         
-        NSLog(@"nigga ima fuck you up");
         NSLog(@"Hello, World!");
         
     }
